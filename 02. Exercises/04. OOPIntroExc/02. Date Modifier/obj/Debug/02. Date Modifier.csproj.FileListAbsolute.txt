@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\02. Date Modifier\bin\Debug\_02.Date_Modifier.exe.config
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\02. Date Modifier\bin\Debug\_02.Date_Modifier.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\02. Date Modifier\bin\Debug\_02.Date_Modifier.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\02. Date Modifier\obj\Debug\02. Date Modifier.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\02. Date Modifier\obj\Debug\02. Date Modifier.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\02. Date Modifier\obj\Debug\_02.Date_Modifier.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\02. Date Modifier\obj\Debug\_02.Date_Modifier.pdb

@@ -1,0 +1,18 @@
+C:\Users\spide\source\repos\Homework\Homework.Models\bin\Debug\netcoreapp2.0\Homework.Models.deps.json
+C:\Users\spide\source\repos\Homework\Homework.Models\bin\Debug\netcoreapp2.0\Homework.Models.dll
+C:\Users\spide\source\repos\Homework\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.csprojResolveAssemblyReference.cache
+C:\Users\spide\source\repos\Homework\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\Homework\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\Homework\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.AssemblyInfo.cs
+C:\Users\spide\source\repos\Homework\Homework.Models\bin\Debug\netcoreapp2.0\Homework.Models.pdb
+C:\Users\spide\source\repos\Homework\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.dll
+C:\Users\spide\source\repos\Homework\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\bin\Debug\netcoreapp2.0\Homework.Models.deps.json
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\bin\Debug\netcoreapp2.0\Homework.Models.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\bin\Debug\netcoreapp2.0\Homework.Models.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.csprojResolveAssemblyReference.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.AssemblyInfo.cs
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Models\obj\Debug\netcoreapp2.0\Homework.Models.pdb

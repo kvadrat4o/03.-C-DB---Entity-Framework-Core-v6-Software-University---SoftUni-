@@ -1,0 +1,2 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\06. Online Radio Database\obj\Debug\06. Online Radio Database.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\06. Online Radio Database\obj\Debug\06. Online Radio Database.csproj.CoreCompileInputs.cache

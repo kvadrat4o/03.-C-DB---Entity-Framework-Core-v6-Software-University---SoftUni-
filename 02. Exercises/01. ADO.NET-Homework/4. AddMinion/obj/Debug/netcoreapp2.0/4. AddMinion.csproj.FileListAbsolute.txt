@@ -1,0 +1,11 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\bin\Debug\netcoreapp2.0\4. AddMinion.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\bin\Debug\netcoreapp2.0\4. AddMinion.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\bin\Debug\netcoreapp2.0\4. AddMinion.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\bin\Debug\netcoreapp2.0\4. AddMinion.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\obj\Debug\netcoreapp2.0\4. AddMinion.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\obj\Debug\netcoreapp2.0\4. AddMinion.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\obj\Debug\netcoreapp2.0\4. AddMinion.AssemblyInfo.cs
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\bin\Debug\netcoreapp2.0\4. AddMinion.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\obj\Debug\netcoreapp2.0\4. AddMinion.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\obj\Debug\netcoreapp2.0\4. AddMinion.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\4. AddMinion\obj\Debug\netcoreapp2.0\4. AddMinion.pdb

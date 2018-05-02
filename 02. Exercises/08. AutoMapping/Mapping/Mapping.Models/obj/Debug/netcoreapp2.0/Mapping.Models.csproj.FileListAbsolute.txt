@@ -1,0 +1,9 @@
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\bin\Debug\netcoreapp2.0\Mapping.Models.deps.json
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\bin\Debug\netcoreapp2.0\Mapping.Models.dll
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\obj\Debug\netcoreapp2.0\Mapping.Models.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\obj\Debug\netcoreapp2.0\Mapping.Models.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\obj\Debug\netcoreapp2.0\Mapping.Models.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\bin\Debug\netcoreapp2.0\Mapping.Models.pdb
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\obj\Debug\netcoreapp2.0\Mapping.Models.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\obj\Debug\netcoreapp2.0\Mapping.Models.dll
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\Mapping\Mapping.Models\obj\Debug\netcoreapp2.0\Mapping.Models.pdb

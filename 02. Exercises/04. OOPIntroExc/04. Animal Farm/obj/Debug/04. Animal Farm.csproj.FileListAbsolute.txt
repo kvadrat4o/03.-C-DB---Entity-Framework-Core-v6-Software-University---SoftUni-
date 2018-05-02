@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\04. Animal Farm\bin\Debug\_04.Animal_Farm.exe.config
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\04. Animal Farm\bin\Debug\_04.Animal_Farm.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\04. Animal Farm\bin\Debug\_04.Animal_Farm.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\04. Animal Farm\obj\Debug\04. Animal Farm.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\04. Animal Farm\obj\Debug\04. Animal Farm.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\04. Animal Farm\obj\Debug\_04.Animal_Farm.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\04. Animal Farm\obj\Debug\_04.Animal_Farm.pdb

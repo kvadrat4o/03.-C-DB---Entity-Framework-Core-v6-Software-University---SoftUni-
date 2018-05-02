@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\7. PrintMinionNames\bin\Debug\netcoreapp2.0\7. PrintMinionNames.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\7. PrintMinionNames\bin\Debug\netcoreapp2.0\7. PrintMinionNames.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\7. PrintMinionNames\bin\Debug\netcoreapp2.0\7. PrintMinionNames.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\7. PrintMinionNames\bin\Debug\netcoreapp2.0\7. PrintMinionNames.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\7. PrintMinionNames\obj\Debug\netcoreapp2.0\7. PrintMinionNames.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\7. PrintMinionNames\obj\Debug\netcoreapp2.0\7. PrintMinionNames.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\7. PrintMinionNames\obj\Debug\netcoreapp2.0\7. PrintMinionNames.AssemblyInfo.cs

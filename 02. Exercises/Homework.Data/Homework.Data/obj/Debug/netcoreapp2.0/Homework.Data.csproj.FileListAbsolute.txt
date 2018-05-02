@@ -1,0 +1,22 @@
+C:\Users\spide\source\repos\Homework\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Data.deps.json
+C:\Users\spide\source\repos\Homework\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Data.dll
+C:\Users\spide\source\repos\Homework\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.csprojResolveAssemblyReference.cache
+C:\Users\spide\source\repos\Homework\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\Homework\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\Homework\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.AssemblyInfo.cs
+C:\Users\spide\source\repos\Homework\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Data.pdb
+C:\Users\spide\source\repos\Homework\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Models.dll
+C:\Users\spide\source\repos\Homework\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Models.pdb
+C:\Users\spide\source\repos\Homework\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.dll
+C:\Users\spide\source\repos\Homework\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Data.deps.json
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Data.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Data.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Models.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\bin\Debug\netcoreapp2.0\Homework.Models.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.csprojResolveAssemblyReference.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.AssemblyInfo.cs
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Data\obj\Debug\netcoreapp2.0\Homework.Data.pdb

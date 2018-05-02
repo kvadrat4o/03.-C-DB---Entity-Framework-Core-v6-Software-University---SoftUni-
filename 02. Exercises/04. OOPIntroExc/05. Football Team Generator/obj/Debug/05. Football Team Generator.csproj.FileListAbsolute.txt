@@ -1,0 +1,6 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\05. Football Team Generator\bin\Debug\_05.Football_Team_Generator.exe.config
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\05. Football Team Generator\bin\Debug\_05.Football_Team_Generator.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\05. Football Team Generator\bin\Debug\_05.Football_Team_Generator.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\05. Football Team Generator\obj\Debug\05. Football Team Generator.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\05. Football Team Generator\obj\Debug\_05.Football_Team_Generator.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\04. OOPIntroExc\05. Football Team Generator\obj\Debug\_05.Football_Team_Generator.pdb

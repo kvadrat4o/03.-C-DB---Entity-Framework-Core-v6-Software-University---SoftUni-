@@ -1,0 +1,30 @@
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Data.dll
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Models.dll
+C:\Users\spide\source\repos\Homework\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.csprojResolveAssemblyReference.cache
+C:\Users\spide\source\repos\Homework\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\Homework\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\Homework\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.AssemblyInfo.cs
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.deps.json
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.runtimeconfig.json
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.runtimeconfig.dev.json
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.dll
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.pdb
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Data.pdb
+C:\Users\spide\source\repos\Homework\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Models.pdb
+C:\Users\spide\source\repos\Homework\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.dll
+C:\Users\spide\source\repos\Homework\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.deps.json
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.runtimeconfig.json
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.runtimeconfig.dev.json
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Client.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Data.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Models.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Data.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\bin\Debug\netcoreapp2.0\Homework.Models.pdb
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.csprojResolveAssemblyReference.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.AssemblyInfo.cs
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.dll
+C:\Users\spide\source\repos\Auto Mapping Objects\Homework.Client\obj\Debug\netcoreapp2.0\Homework.Client.pdb

@@ -1,0 +1,10 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\bin\Debug\netcoreapp2.0\13. EmployeesFNameSa.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\bin\Debug\netcoreapp2.0\13. EmployeesFNameSa.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\bin\Debug\netcoreapp2.0\13. EmployeesFNameSa.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\bin\Debug\netcoreapp2.0\13. EmployeesFNameSa.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\obj\Debug\netcoreapp2.0\13. EmployeesFNameSa.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\obj\Debug\netcoreapp2.0\13. EmployeesFNameSa.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\obj\Debug\netcoreapp2.0\13. EmployeesFNameSa.AssemblyInfo.cs
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\bin\Debug\netcoreapp2.0\13. EmployeesFNameSa.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\obj\Debug\netcoreapp2.0\13. EmployeesFNameSa.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\13. EmployeesFNameSa\obj\Debug\netcoreapp2.0\13. EmployeesFNameSa.pdb

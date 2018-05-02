@@ -1,0 +1,11 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\bin\Debug\netcoreapp2.0\05. EmployeesRnD.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\bin\Debug\netcoreapp2.0\05. EmployeesRnD.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\bin\Debug\netcoreapp2.0\05. EmployeesRnD.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\bin\Debug\netcoreapp2.0\05. EmployeesRnD.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\obj\Debug\netcoreapp2.0\05. EmployeesRnD.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\obj\Debug\netcoreapp2.0\05. EmployeesRnD.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\obj\Debug\netcoreapp2.0\05. EmployeesRnD.AssemblyInfo.cs
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\bin\Debug\netcoreapp2.0\05. EmployeesRnD.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\obj\Debug\netcoreapp2.0\05. EmployeesRnD.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\obj\Debug\netcoreapp2.0\05. EmployeesRnD.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\05. EmployeesRnD\obj\Debug\netcoreapp2.0\05. EmployeesRnD.pdb

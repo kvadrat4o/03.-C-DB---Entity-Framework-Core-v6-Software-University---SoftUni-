@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\01. ClassPerson\bin\Debug\_01.ClassPerson.exe.config
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\01. ClassPerson\bin\Debug\_01.ClassPerson.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\01. ClassPerson\bin\Debug\_01.ClassPerson.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\01. ClassPerson\obj\Debug\01. ClassPerson.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\01. ClassPerson\obj\Debug\01. ClassPerson.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\01. ClassPerson\obj\Debug\_01.ClassPerson.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\01. ClassPerson\obj\Debug\_01.ClassPerson.pdb

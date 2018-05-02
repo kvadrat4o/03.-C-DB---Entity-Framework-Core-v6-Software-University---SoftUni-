@@ -1,0 +1,10 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\bin\Debug\netcoreapp2.0\10. DepartmentsMore5.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\bin\Debug\netcoreapp2.0\10. DepartmentsMore5.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\bin\Debug\netcoreapp2.0\10. DepartmentsMore5.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\bin\Debug\netcoreapp2.0\10. DepartmentsMore5.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\obj\Debug\netcoreapp2.0\10. DepartmentsMore5.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\obj\Debug\netcoreapp2.0\10. DepartmentsMore5.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\obj\Debug\netcoreapp2.0\10. DepartmentsMore5.AssemblyInfo.cs
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\bin\Debug\netcoreapp2.0\10. DepartmentsMore5.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\obj\Debug\netcoreapp2.0\10. DepartmentsMore5.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\10. DepartmentsMore5\obj\Debug\netcoreapp2.0\10. DepartmentsMore5.pdb

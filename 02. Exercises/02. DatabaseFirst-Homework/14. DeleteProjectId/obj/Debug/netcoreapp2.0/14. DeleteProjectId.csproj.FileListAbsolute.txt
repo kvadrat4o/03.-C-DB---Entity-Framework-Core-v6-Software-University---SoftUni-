@@ -1,0 +1,10 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\bin\Debug\netcoreapp2.0\14. DeleteProjectId.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\bin\Debug\netcoreapp2.0\14. DeleteProjectId.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\bin\Debug\netcoreapp2.0\14. DeleteProjectId.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\bin\Debug\netcoreapp2.0\14. DeleteProjectId.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\obj\Debug\netcoreapp2.0\14. DeleteProjectId.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\obj\Debug\netcoreapp2.0\14. DeleteProjectId.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\obj\Debug\netcoreapp2.0\14. DeleteProjectId.AssemblyInfo.cs
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\bin\Debug\netcoreapp2.0\14. DeleteProjectId.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\obj\Debug\netcoreapp2.0\14. DeleteProjectId.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. DatabaseFirst-Homework\14. DeleteProjectId\obj\Debug\netcoreapp2.0\14. DeleteProjectId.pdb

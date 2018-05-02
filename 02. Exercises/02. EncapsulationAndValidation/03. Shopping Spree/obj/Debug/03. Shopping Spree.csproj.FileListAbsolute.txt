@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\03. Shopping Spree\bin\Debug\_03.Shopping_Spree.exe.config
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\03. Shopping Spree\bin\Debug\_03.Shopping_Spree.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\03. Shopping Spree\bin\Debug\_03.Shopping_Spree.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\03. Shopping Spree\obj\Debug\03. Shopping Spree.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\03. Shopping Spree\obj\Debug\03. Shopping Spree.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\03. Shopping Spree\obj\Debug\_03.Shopping_Spree.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\03. Shopping Spree\obj\Debug\_03.Shopping_Spree.pdb

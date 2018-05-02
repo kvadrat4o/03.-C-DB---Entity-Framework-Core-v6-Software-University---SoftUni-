@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore" Version="2.0.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="2.0.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Homework.Models\Homework.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\05. Company Roster\bin\Debug\_05.Company_Roster.exe.config
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\05. Company Roster\bin\Debug\_05.Company_Roster.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\05. Company Roster\bin\Debug\_05.Company_Roster.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\05. Company Roster\obj\Debug\05. Company Roster.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\05. Company Roster\obj\Debug\05. Company Roster.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\05. Company Roster\obj\Debug\_05.Company_Roster.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\05. Company Roster\obj\Debug\_05.Company_Roster.pdb

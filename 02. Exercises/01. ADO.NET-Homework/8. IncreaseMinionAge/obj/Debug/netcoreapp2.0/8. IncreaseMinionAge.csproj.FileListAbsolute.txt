@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\8. IncreaseMinionAge\bin\Debug\netcoreapp2.0\8. IncreaseMinionAge.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\8. IncreaseMinionAge\bin\Debug\netcoreapp2.0\8. IncreaseMinionAge.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\8. IncreaseMinionAge\bin\Debug\netcoreapp2.0\8. IncreaseMinionAge.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\8. IncreaseMinionAge\bin\Debug\netcoreapp2.0\8. IncreaseMinionAge.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\8. IncreaseMinionAge\obj\Debug\netcoreapp2.0\8. IncreaseMinionAge.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\8. IncreaseMinionAge\obj\Debug\netcoreapp2.0\8. IncreaseMinionAge.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\8. IncreaseMinionAge\obj\Debug\netcoreapp2.0\8. IncreaseMinionAge.AssemblyInfo.cs

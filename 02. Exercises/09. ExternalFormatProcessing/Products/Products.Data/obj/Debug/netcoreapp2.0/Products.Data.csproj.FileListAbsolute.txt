@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\bin\Debug\netcoreapp2.0\Products.Data.deps.json
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\bin\Debug\netcoreapp2.0\Products.Data.dll
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\obj\Debug\netcoreapp2.0\Products.Data.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\obj\Debug\netcoreapp2.0\Products.Data.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\obj\Debug\netcoreapp2.0\Products.Data.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\obj\Debug\netcoreapp2.0\Products.Data.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\bin\Debug\netcoreapp2.0\Products.Data.pdb
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\bin\Debug\netcoreapp2.0\Products.Models.dll
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\bin\Debug\netcoreapp2.0\Products.Models.pdb
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\obj\Debug\netcoreapp2.0\Products.Data.dll
+E:\Coding\03_ProfModules\C#\DB\Advanced\Ex\09. ExternalFormatProcessing\Products\Products.Data\obj\Debug\netcoreapp2.0\Products.Data.pdb

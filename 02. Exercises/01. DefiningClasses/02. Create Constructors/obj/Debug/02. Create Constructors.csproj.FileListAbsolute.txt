@@ -1,0 +1,6 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\02. Create Constructors\bin\Debug\_02.Create_Constructors.exe.config
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\02. Create Constructors\bin\Debug\_02.Create_Constructors.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\02. Create Constructors\bin\Debug\_02.Create_Constructors.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\02. Create Constructors\obj\Debug\02. Create Constructors.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\02. Create Constructors\obj\Debug\_02.Create_Constructors.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. DefiningClasses\02. Create Constructors\obj\Debug\_02.Create_Constructors.pdb

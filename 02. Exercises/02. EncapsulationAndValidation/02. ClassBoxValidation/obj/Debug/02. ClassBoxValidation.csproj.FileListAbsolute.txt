@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\ClassBoxValidation\obj\Debug\02. ClassBoxValidation.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\ClassBoxValidation\obj\Debug\02. ClassBoxValidation.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\ClassBoxValidation\bin\Debug\ClassBoxValidation.exe.config
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\ClassBoxValidation\bin\Debug\ClassBoxValidation.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\ClassBoxValidation\bin\Debug\ClassBoxValidation.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\ClassBoxValidation\obj\Debug\ClassBoxValidation.exe
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\02. EncapsulationAndValidation\ClassBoxValidation\obj\Debug\ClassBoxValidation.pdb

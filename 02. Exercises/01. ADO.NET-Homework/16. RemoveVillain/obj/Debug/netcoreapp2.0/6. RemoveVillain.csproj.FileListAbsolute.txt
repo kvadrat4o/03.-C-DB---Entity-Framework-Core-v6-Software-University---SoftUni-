@@ -1,0 +1,7 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\16. RemoveVillain\bin\Debug\netcoreapp2.0\6. RemoveVillain.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\16. RemoveVillain\bin\Debug\netcoreapp2.0\6. RemoveVillain.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\16. RemoveVillain\bin\Debug\netcoreapp2.0\6. RemoveVillain.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\16. RemoveVillain\bin\Debug\netcoreapp2.0\6. RemoveVillain.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\16. RemoveVillain\obj\Debug\netcoreapp2.0\6. RemoveVillain.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\16. RemoveVillain\obj\Debug\netcoreapp2.0\6. RemoveVillain.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\16. RemoveVillain\obj\Debug\netcoreapp2.0\6. RemoveVillain.AssemblyInfo.cs

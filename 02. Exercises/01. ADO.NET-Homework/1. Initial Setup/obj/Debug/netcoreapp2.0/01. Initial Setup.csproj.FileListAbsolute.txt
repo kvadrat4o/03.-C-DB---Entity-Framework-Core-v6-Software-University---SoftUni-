@@ -1,0 +1,11 @@
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\bin\Debug\netcoreapp2.0\01. Initial Setup.deps.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\bin\Debug\netcoreapp2.0\01. Initial Setup.runtimeconfig.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\bin\Debug\netcoreapp2.0\01. Initial Setup.runtimeconfig.dev.json
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\bin\Debug\netcoreapp2.0\01. Initial Setup.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\obj\Debug\netcoreapp2.0\01. Initial Setup.csprojResolveAssemblyReference.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\obj\Debug\netcoreapp2.0\01. Initial Setup.csproj.CoreCompileInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\obj\Debug\netcoreapp2.0\01. Initial Setup.AssemblyInfoInputs.cache
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\obj\Debug\netcoreapp2.0\01. Initial Setup.AssemblyInfo.cs
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\bin\Debug\netcoreapp2.0\01. Initial Setup.pdb
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\obj\Debug\netcoreapp2.0\01. Initial Setup.dll
+E:\Coding\SOFT-Uni-Lectures&Exercises2017\03_Professional Modules\C#\C# DB\2017\C#DB-Advanced\Exercises\01. ADO.NET-Homework\01. Initial Setup\obj\Debug\netcoreapp2.0\01. Initial Setup.pdb
